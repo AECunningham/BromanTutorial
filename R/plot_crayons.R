@@ -17,7 +17,8 @@
 #' plot_crayons()
 #'
 #' @export
-#' @importFrom grDevices rgb2hsv
+#' @importFrom grDevices rgb2hsv col2rgb
+#' @importFrom stats dist hclust
 #' @importFrom graphics par plot rect text
 #'
 plot_crayons <-

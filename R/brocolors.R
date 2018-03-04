@@ -37,6 +37,7 @@
 #' points(1, 7, pch=21, bg=brocolors("main"), cex=4)
 #'
 #' @export
+#' @importFrom grDevices rgb
 #'
 brocolors <-
 function(set=c("general", "bg", "bgpng", "CC", "f2", "sex", "main", "crayons"))
