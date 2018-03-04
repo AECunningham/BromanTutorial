@@ -7,3 +7,5 @@ Author: Karl W Broman <kbroman@biostat.wisc.edu>
 Maintainer: Karl W Broman <kbroman@biostat.wisc.edu>
 RoxygenNote: 6.0.1
 License: MIT + file LICENSE
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
